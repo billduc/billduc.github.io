@@ -1,12 +1,19 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #545E6C;
-    background: #f5f5f5;
+    color: #fb4f18c4;
+    background: #fb18180f;
     font-size: 14px;
     padding: 15px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+/*
+#545E6C
+#fb4f18c4
+#d68331
+color: rgba(255, 255, 255, 0.6);
+*/
 
 h1,
 h2,
@@ -29,7 +36,7 @@ p {
 .profile-container {
     padding: 30px;
     text-align: center;
-    color: #d68331;
+    color: #fb4f18c4;
     height: 300px;
 }
 
