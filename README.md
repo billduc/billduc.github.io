@@ -1,1 +1,1 @@
-# My resume: https://billduc.github.io
+# [My resume](https://nguyentrungduc08.github.io)
