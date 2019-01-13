@@ -1,1 +1,8 @@
-# [My resume](https://nguyentrungduc08.github.io)
+# Nguyen Trung Duc resume
+
+## Usage
+```
+npm start
+npm run build
+```
+

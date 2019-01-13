@@ -1,0 +1,11 @@
+@media (min-width: 992px) {
+  .App-body {
+    width: 60%; } }
+
+.App-body .App-section {
+  margin-top: 50px;
+  text-align: justify;
+  text-justify: inter-word; }
+
+.App-body .black-light {
+  color: rgba(0, 0, 0, 0.6); }
